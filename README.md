@@ -3,6 +3,9 @@
 Aum is a modern, full-stack web application designed to provide a seamless music listening experience.
 Built with React and Node.js, it combines robust backend functionality with an intuitive frontend interface, making it easy for users to discover, and enjoy their favorite music.
 
+<img width="1907" height="907" alt="Screenshot 2025-11-01 190732" src="https://github.com/user-attachments/assets/db0da673-2dd6-42ca-be29-544139c8782e" />
+
+
 ## Features and Capabilities
 
 ## Features
@@ -213,3 +216,4 @@ npm run dev
 
 ## License
 All the audios are my own production and belong to me (Pranamya Shukla). They can not be used for commercial purpose without owner's consent.
+
