@@ -210,3 +210,6 @@ npm run dev
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
+
+## License
+All the audios are my own production and belong to me (Pranamya Shukla). They can not be used for commercial purpose without owner's consent.
